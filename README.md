@@ -4,7 +4,7 @@ Learning data engineering in public — from messy datasets to production-grade 
 
 ## Why this repo exists
 
-I'm transitioning into a career in **Data Engineering** (with some AI Engineering on the side). Rather than learn quietly and hope it sticks, I'm working through this publicly — partly to hold myself accountable, partly because explaining what I'm learning is the best way to actually learn it.
+I'm transitioning into a career in **Data Engineering** (with some AI Engineering on the side). Rather than learn quietly and hope it sticks, I'm working through this publicly partly to hold myself accountable, partly because explaining what I'm learning is the best way to actually learn it.
 
 If you're earlier in this journey than me, hopefully something in here helps you. If you're further along, I'd love feedback.
 
