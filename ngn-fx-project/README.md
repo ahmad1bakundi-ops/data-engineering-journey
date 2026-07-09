@@ -46,7 +46,7 @@ This lens turns out to correctly identify the years when global events (Brexit i
 
 The naira has depreciated roughly **8-10x against all three major currencies** over the last decade. But that pattern is invisible on a linear scale, the 2024 numbers dwarf everything else. Log scale reveals the *shape* of the decline:
 
-![10-year journey](chart_1_10year_journey.png)
+![10-year journey](chart_1_10_year_journey.png)
 
 ### 2. Year-over-year changes reveal two distinct crises
 
@@ -58,7 +58,7 @@ Grouped bar chart of yearly percentage changes shows the naira had two distinct 
 
 Zooming into monthly data across 2023-2024 revealed **two discrete crisis months**, not one:
 
-![Crisis months](chart_3_crisis_months.png)
+![Crisis months](chart_3_crisis_year.png)
 
 - **June 2023:** USD jumped ~31% in one month. Timing matches the Tinubu administration's FX unification announcement on June 14, 2023.
 - **February 2024:** USD jumped ~62% in one month — the single biggest monthly move in the entire dataset. Roughly **2x the June 2023 shock**.
